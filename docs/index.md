@@ -7,7 +7,7 @@
 ![Picture](https://github.com/ayush10mehta/Face-mask-detection/blob/main/photos/Screenshot%202021-05-08%20at%207.34.55%20PM.png?raw=true)
 
 ### Flow chart
-![Flow chart](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Screenshot%202021-05-09%20at%209.25.06%20AM.png)
+![Flow chart](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Screenshot%202021-05-09%20at%209.25.06%20AM.png?raw=true)
 
 ### Model code:- [Model Link](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Model%20.ipynb)
 
@@ -29,7 +29,7 @@
 - The output of convolutional layer is flattened and sent to first fully connected layer of 64 neurons followed by 32 neurons layers and then to 10 neuron layer with softmax activation function which will give us our output.
 
 ### Flow chart
-![Flow chart](https://github.com/ayush10mehta/Handwritten-Digit-Recognization/blob/main/final_flowdiagram.jpg)
+![Flow chart](https://github.com/ayush10mehta/Handwritten-Digit-Recognization/blob/main/final_flowdiagram.jpg?raw=true)
 
 ### Model code:- [Model Link](https://github.com/ayush10mehta/Handwritten-Digit-Recognization/blob/main/Hand%20written%20final.ipynb)
 
@@ -50,9 +50,9 @@
 - The output of convolutional layer is flattened and sent to first fully connected layer of 1024 neurons followed by ReLU activation, Batch Normalization and Dropout and then to 3 neuron layer with softmax activation function which will give us our output.
 
 ### Flow chart
-![Flow chart](https://github.com/ayush10mehta/Rice-Leaf-Deases-Detection/blob/main/Screenshot%202021-05-12%20at%208.56.48%20PM.png)
+![Flow chart](https://github.com/ayush10mehta/Handwritten-Digit-Recognization/blob/main/final_flowdiagram.jpg?raw=true)
 
-![Check Point](https://github.com/ayush10mehta/Rice-Leaf-Deases-Detection/blob/main/Screenshot%202021-05-12%20at%201.47.42%20PM.png)
+![Check Point](https://github.com/ayush10mehta/Rice-Leaf-Deases-Detection/blob/main/Screenshot%202021-05-12%20at%201.47.42%20PM.png?raw=true)
 
 ### Model code:- [Model Link](https://github.com/ayush10mehta/Rice-Leaf-Deases-Detection/blob/main/Final_Model.ipynb)
 
@@ -65,13 +65,13 @@
 
 ### Tableau public profile link:- [Link](https://public.tableau.com/profile/ayush.mehta#!/)
 
-![Tableau](https://github.com/ayush10mehta/Projects/blob/main/Data%20visualization/Tableau.png)
+![Tableau](https://github.com/ayush10mehta/Projects/blob/main/Data%20visualization/Tableau.png?raw=true)
 
 ### Metabase
-![Metabase](https://github.com/ayush10mehta/Projects/blob/main/Data%20visualization/Metabase.png)
+![Metabase](https://github.com/ayush10mehta/Projects/blob/main/Data%20visualization/Metabase.png?raw=true)
 
 ### Google data studio
-![Google data studio](https://github.com/ayush10mehta/Projects/blob/main/Data%20visualization/Google.png)
+![Google data studio](https://github.com/ayush10mehta/Projects/blob/main/Data%20visualization/Google.png?raw=true)
 
 
 
