@@ -9,14 +9,12 @@
 ### Flow chart
 ![Flow chart](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Screenshot%202021-05-09%20at%209.25.06%20AM.png)
 
-### Model code [Model Link](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Model%20.ipynb)
+### Model code:- [Model Link](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Model%20.ipynb)
 
+### PPT:- [PPT Link](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Mask%20Detection%20ptt.pptx)
 
-### PPT
-[PPT Link](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Mask%20Detection%20ptt.pptx)
+### Demo:- [Demo Video](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Screen%20Recording%202021-05-09%20at%2010.50.07%20AM.mov)
 
-### Demo
-[Demo Video](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Screen%20Recording%202021-05-09%20at%2010.50.07%20AM.mov)
 
 ## 2. Handwritten-Digit-Recognization
 
@@ -33,11 +31,10 @@
 ### Flow chart
 ![Flow chart](https://github.com/ayush10mehta/Handwritten-Digit-Recognization/blob/main/final_flowdiagram.jpg)
 
-### Model code
-[Model Link](https://github.com/ayush10mehta/Handwritten-Digit-Recognization/blob/main/Hand%20written%20final.ipynb)
+### Model code:- [Model Link](https://github.com/ayush10mehta/Handwritten-Digit-Recognization/blob/main/Hand%20written%20final.ipynb)
 
-### PPT
-[PPT Link](https://github.com/ayush10mehta/Handwritten-Digit-Recognization/blob/main/Handwrritenpresentation1.pptx)
+### PPT:- [PPT Link](https://github.com/ayush10mehta/Handwritten-Digit-Recognization/blob/main/Handwrritenpresentation1.pptx)
+
 
 ## 3. Rice-Leaf-Deases-Detection
 
@@ -57,19 +54,16 @@
 
 ![Check Point](https://github.com/ayush10mehta/Rice-Leaf-Deases-Detection/blob/main/Screenshot%202021-05-12%20at%201.47.42%20PM.png)
 
-### Model code
-[Model Link](https://github.com/ayush10mehta/Rice-Leaf-Deases-Detection/blob/main/Final_Model.ipynb)
+### Model code:- [Model Link](https://github.com/ayush10mehta/Rice-Leaf-Deases-Detection/blob/main/Final_Model.ipynb)
 
+### PPT:- [PPT Link](https://github.com/ayush10mehta/Rice-Leaf-Deases-Detection/blob/main/Rice_Leaf.pptx)
 
-### PPT
-[PPT Link](https://github.com/ayush10mehta/Rice-Leaf-Deases-Detection/blob/main/Rice_Leaf.pptx)
 
 ## Data visualization projects
 
 ### Tableau
 
-### Tableau public profile link
-[Link](https://public.tableau.com/profile/ayush.mehta#!/)
+### Tableau public profile link:- [Link](https://public.tableau.com/profile/ayush.mehta#!/)
 
 ![Tableau](https://github.com/ayush10mehta/Projects/blob/main/Data%20visualization/Tableau.png)
 
