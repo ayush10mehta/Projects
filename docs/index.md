@@ -50,7 +50,7 @@
 - The output of convolutional layer is flattened and sent to first fully connected layer of 1024 neurons followed by ReLU activation, Batch Normalization and Dropout and then to 3 neuron layer with softmax activation function which will give us our output.
 
 ### Flow chart
-![Flow chart](https://github.com/ayush10mehta/Handwritten-Digit-Recognization/blob/main/final_flowdiagram.jpg?raw=true)
+![Flow chart](https://github.com/ayush10mehta/Rice-Leaf-Deases-Detection/blob/main/Screenshot%202021-05-12%20at%208.56.48%20PM.png?raw=true)
 
 ![Check Point](https://github.com/ayush10mehta/Rice-Leaf-Deases-Detection/blob/main/Screenshot%202021-05-12%20at%201.47.42%20PM.png?raw=true)
 
