@@ -1,5 +1,3 @@
-# **Projects**
-
 ## 1. Face-mask-detection
 
 #### Considering the covid-19 outbreak, I think this is best project that I can work as a Machine Learning enthusiast. Today everyone is aware of taking precaution and safety measures regarding covid-19, so face mask detection will play a huge role to avoid corona virus. 
