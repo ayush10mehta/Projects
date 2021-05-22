@@ -9,8 +9,8 @@
 ### Flow chart
 ![Flow chart](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Screenshot%202021-05-09%20at%209.25.06%20AM.png)
 
-### Model code
-[Model Link](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Model%20.ipynb)
+### Model code [Model Link](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Model%20.ipynb)
+
 
 ### PPT
 [PPT Link](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Mask%20Detection%20ptt.pptx)
