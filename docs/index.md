@@ -67,6 +67,10 @@
 ## Data visualization projects
 
 ### Tableau
+
+### Tableau public profile link
+[Link](https://public.tableau.com/profile/ayush.mehta#!/)
+
 ![Tableau](https://github.com/ayush10mehta/Projects/blob/main/Data%20visualization/Tableau.png)
 
 ### Metabase
@@ -74,5 +78,6 @@
 
 ### Google data studio
 ![Google data studio](https://github.com/ayush10mehta/Projects/blob/main/Data%20visualization/Google.png)
+
 
 
