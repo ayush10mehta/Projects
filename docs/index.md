@@ -24,10 +24,10 @@
 ### To perform handwritten digit recognition, some basic knowledge on neural network and image processing is needed.
 
 ### CNN Architecture 
-###The model’s architecture consists of three main parts, three convolutional blocks and four fully connected neural network layer.
-###The inputs to this model are 28x28 images.
-###We are using three convolutional layers with same configurations, using 64 (3x3) filters and ReLU as an activation function followed by max pooling layer of pool size of 2x2.
-###The output of convolutional layer is flattened and sent to first fully connected layer of 64 neurons followed by 32 neurons layers and then to 10 neuron layer with softmax activation function which will give us our output.
+### The model’s architecture consists of three main parts, three convolutional blocks and four fully connected neural network layer.
+### The inputs to this model are 28x28 images.
+### We are using three convolutional layers with same configurations, using 64 (3x3) filters and ReLU as an activation function followed by max pooling layer of pool size of 2x2.
+### The output of convolutional layer is flattened and sent to first fully connected layer of 64 neurons followed by 32 neurons layers and then to 10 neuron layer with softmax activation function which will give us our output.
 
 ### Flow chart
 ![Flow chart](https://github.com/ayush10mehta/Handwritten-Digit-Recognization/blob/main/final_flowdiagram.jpg)
