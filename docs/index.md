@@ -1,4 +1,4 @@
-# Projects
+# *Projects*
 
 ## 1. Face-mask-detection
 
