@@ -64,3 +64,15 @@
 ### PPT
 [PPT Link](https://github.com/ayush10mehta/Rice-Leaf-Deases-Detection/blob/main/Rice_Leaf.pptx)
 
+## Data visualization projects
+
+### Tableau
+![Tableau](https://github.com/ayush10mehta/Projects/blob/main/Data%20visualization/Tableau.png)
+
+### Metabase
+![Metabase](https://github.com/ayush10mehta/Projects/blob/main/Data%20visualization/Metabase.png)
+
+### Google data studio
+![Google data studio](https://github.com/ayush10mehta/Projects/blob/main/Data%20visualization/Google.png)
+
+
