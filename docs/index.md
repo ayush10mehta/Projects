@@ -23,7 +23,7 @@
 ### The handwritten digit recognition is the solution to this problem which uses the image of a digit and recognizes the digit present in the image.
 ### To perform handwritten digit recognition, some basic knowledge on neural network and image processing is needed.
 
-### CNN Architecture 
+## CNN Architecture 
 ### The model’s architecture consists of three main parts, three convolutional blocks and four fully connected neural network layer.
 ### The inputs to this model are 28x28 images.
 ### We are using three convolutional layers with same configurations, using 64 (3x3) filters and ReLU as an activation function followed by max pooling layer of pool size of 2x2.
@@ -45,7 +45,7 @@
 ### To perform Rice diseases prediction, some basic knowledge on neural network, CNN and image processing is needed.
 
 
-### CNN Architecture 
+## CNN Architecture 
 ### The model’s architecture consists of two main parts, five convolutional blocks and two fully connected neural network layer.
 ### The inputs to this model are 220x220 images.
 ### We are using five convolutional layers with one using 32 (3x3) filter, two using 64 (3x3) filter and the other two using 128 (3x3) filter and ReLU as an activation function followed by max pooling layer of pool and dropout.
