@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Projects
 
-You can use the [editor on GitHub](https://github.com/ayush10mehta/Projects/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## 1. Face-mask-detection
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Considering the covid-19 outbreak, I think this is best project that I can work as a Machine Learning enthusiast. Today everyone is aware of taking precaution and safety measures regarding covid-19, so face mask detection will play a huge role to avoid corona virus. 
+### This project helps us to spread the awareness among people using face mask properly. It detects the face mask on your face whether the person is hiding his/her face by mask or not.
 
-### Markdown
+### Flow chart
+![Flow chart](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Screenshot%202021-05-09%20at%209.25.06%20AM.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Model code
+[Model Link](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Model%20.ipynb)
 
-```markdown
-Syntax highlighted code block
+### PPT
+[PPT Link](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Mask%20Detection%20ptt.pptx)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ayush10mehta/Projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Explanation
+[Demo Video](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Screen%20Recording%202021-05-09%20at%2010.50.07%20AM.mov)
