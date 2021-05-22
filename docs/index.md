@@ -4,7 +4,7 @@
 - This project helps us to spread the awareness among people using face mask properly. It detects the face mask on your face whether the person is hiding his/her face by mask or not.
 
 ### Demo Picture
-![Picture](https://github.com/ayush10mehta/Face-mask-detection/blob/main/photos/Screenshot%202021-05-08%20at%207.34.55%20PM.png)
+![Picture](https://github.com/ayush10mehta/Face-mask-detection/blob/main/photos/Screenshot%202021-05-08%20at%207.34.55%20PM.png?raw=true)
 
 ### Flow chart
 ![Flow chart](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Screenshot%202021-05-09%20at%209.25.06%20AM.png)
