@@ -75,6 +75,7 @@
 
 ### PPT:- [PPT Link](https://github.com/ayush10mehta/Motion-detector/blob/main/motioncam.pptx)
 
+### Demo:- [Demo Video](https://github.com/ayush10mehta/Motion-detector/blob/main/Screen%20Recording%202021-05-23%20at%202.32.07%20PM.mov)
 
 ## Data visualization projects
 
