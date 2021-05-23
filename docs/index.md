@@ -52,11 +52,28 @@
 ### Flow chart
 ![Flow chart](https://github.com/ayush10mehta/Rice-Leaf-Deases-Detection/blob/main/Screenshot%202021-05-12%20at%208.56.48%20PM.png?raw=true)
 
+### Check point flow chart
 ![Check Point](https://github.com/ayush10mehta/Rice-Leaf-Deases-Detection/blob/main/Screenshot%202021-05-12%20at%201.47.42%20PM.png?raw=true)
 
 ### Model code:- [Model Link](https://github.com/ayush10mehta/Rice-Leaf-Deases-Detection/blob/main/Final_Model.ipynb)
 
 ### PPT:- [PPT Link](https://github.com/ayush10mehta/Rice-Leaf-Deases-Detection/blob/main/Rice_Leaf.pptx)
+
+## 4. Security camera with motion detection alarm
+
+- The security camera will detect motion of a person and will sound an alarm as the motion is detected.
+- Using OpenCV we will take input from a webcam and then finding difference between image frames will help us in detecting motion.
+- To perform this task, some basic knowledge of OpenCV is needed.
+
+### Flow chart
+![Flow chart](https://github.com/ayush10mehta/Motion-detector/blob/main/Screenshot%202021-05-23%20at%209.51.34%20PM.png?raw=true)
+
+### Image flow diagram
+![Image flow](https://github.com/ayush10mehta/Motion-detector/blob/main/Screenshot%202021-05-23%20at%2010.49.28%20PM.png?raw=true)
+
+### Model code:- [Model Link](https://github.com/ayush10mehta/Motion-detector/blob/main/Code.ipynb)
+
+### PPT:- [PPT Link](https://github.com/ayush10mehta/Motion-detector/blob/main/motioncam.pptx)
 
 
 ## Data visualization projects
