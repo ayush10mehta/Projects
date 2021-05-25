@@ -77,6 +77,22 @@
 
 ### Demo:- [Demo Video](https://github.com/ayush10mehta/Motion-detector/blob/main/Screen%20Recording%202021-05-23%20at%202.32.07%20PM.mov)
 
+## 5. Blood Donation Prediction
+
+- The model will predict that the person will donate blood for the next time of not.
+- It is a classification type problem. 
+- To perform blood donation prediction, some basic knowledge on supervised learning methods, data balancing methods and mainly Logistic regression and Random forest algorithms is needed.
+
+### Flow chart
+![Flow chart](https://github.com/ayush10mehta/Blood-Donation-Prediction-Project/blob/main/Screenshot%202021-05-24%20at%201.33.12%20PM.png?raw=true)
+
+### Model deployment sample
+![Model deployment](https://github.com/ayush10mehta/Blood-Donation-Prediction-Project/blob/main/Screenshot%202021-05-25%20at%208.31.38%20PM.png?raw=true)
+
+### Model code:- [Model Link](https://github.com/ayush10mehta/Blood-Donation-Prediction-Project/blob/main/Final.ipynb)
+
+### PPT:- [PPT Link](https://github.com/ayush10mehta/Blood-Donation-Prediction-Project/blob/main/Blood.pptx)
+
 ## Data visualization projects
 
 ### Tableau
