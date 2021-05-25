@@ -93,6 +93,8 @@
 
 ### PPT:- [PPT Link](https://github.com/ayush10mehta/Blood-Donation-Prediction-Project/blob/main/Blood.pptx)
 
+### Model Deployment Link:- [Deployment Link](https://blood-donation-prediction-1.herokuapp.com/)
+
 ## Data visualization projects
 
 ### Tableau
