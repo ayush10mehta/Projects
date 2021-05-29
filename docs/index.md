@@ -109,5 +109,12 @@
 ### Google data studio
 ![Google data studio](https://github.com/ayush10mehta/Projects/blob/main/Data%20visualization/Google.png?raw=true)
 
+# LinkedIn Profile
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ayush-mehta-09a3a91b8" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ayush-mehta-09a3a91b8?trk=profile-badge">Ayush Mehta</a></div>
+              
+
 
 
