@@ -95,6 +95,20 @@
 
 ### Model Deployment Link:- [Deployment Link](https://blood-donation-prediction-1.herokuapp.com/)
 
+## 6. Vaccine Prediction
+
+- The dataset contains the respondents information about the pandemic survey where they answered if they had received the H1N1 and seasonal flu vaccines. 
+- The goal is to predict how likely individuals are to receive their H1N1 and seasonal flu vaccines. 
+- In specific, the target is to predict two probabilities: one for h1n1_vaccine and one for seasonal_vaccine.
+
+
+### Flow chart
+![Flow chart](https://github.com/ayush10mehta/Vaccine-prediction/blob/main/Screenshot%202021-06-05%20at%207.46.43%20PM.png?raw=true)
+
+### Model code:- [Model Link](https://github.com/ayush10mehta/Vaccine-prediction/blob/main/Final_model.ipynb)
+
+### PPT:- [PPT Link](https://github.com/ayush10mehta/Vaccine-prediction/blob/main/vaccine_ppt.pptx)
+
 ## Data visualization projects
 
 ### Tableau
