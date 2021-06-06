@@ -36,7 +36,7 @@
 ### PPT:- [PPT Link](https://github.com/ayush10mehta/Handwritten-Digit-Recognization/blob/main/Handwrritenpresentation1.pptx)
 
 
-## 3. Rice-Leaf-Deases-Detection
+## 3. Rice-Leaf-Disease-Detection
 
 - In developing countries, farming land can be much larger and farmers cannot observe each and every plant, every day. Farmers are unaware of non-native diseases. 
 - The model will help them in detecting which of the diseases the rice leaf has. 
