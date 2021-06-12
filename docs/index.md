@@ -16,9 +16,10 @@
 ### Demo:- [Demo Video](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Screen%20Recording%202021-05-09%20at%2010.50.07%20AM.mov)
 
 
-##  Review analysis
+##  Hotel-Review analysis
 
-- Given data is text file of reviews need to analyse the reviews.
+- Given data is text file of reviews 
+- Need to analyse the reviews and give the insights from them.
 
 ### Wordcloud
 ![Wordcloud](https://github.com/ayush10mehta/Review-analysis-NLKT-and-Wordcloud-/blob/main/Book.png?raw=true)
