@@ -1,4 +1,4 @@
-## 1. Face-mask-detection
+##  Face-mask-detection
 
 - Considering the covid-19 outbreak, I think this is best project that I can work as a Machine Learning enthusiast. Today everyone is aware of taking precaution and safety measures regarding covid-19, so face mask detection will play a huge role to avoid corona virus. 
 - This project helps us to spread the awareness among people using face mask properly. It detects the face mask on your face whether the person is hiding his/her face by mask or not.
@@ -16,7 +16,24 @@
 ### Demo:- [Demo Video](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Screen%20Recording%202021-05-09%20at%2010.50.07%20AM.mov)
 
 
-## 2. Handwritten-Digit-Recognization
+##  Review analysis
+
+- Given data is text file of reviews need to analyse the reviews.
+
+### Wordcloud
+![Wordcloud](https://github.com/ayush10mehta/Review-analysis-NLKT-and-Wordcloud-/blob/main/Book.png?raw=true)
+
+### Code:- [Model Link](https://github.com/ayush10mehta/Review-analysis-NLKT-and-Wordcloud-/blob/main/Sentiment%20polarity.ipynb)
+
+### Wordcloud Code:- [Model Link](https://github.com/ayush10mehta/Review-analysis-NLKT-and-Wordcloud-/blob/main/Word%20cloud.ipynb)
+
+### Tableau:- [Link](https://public.tableau.com/app/profile/ayush.mehta/viz/Hotelreviewanalysis/Story1)
+
+### Conclusion
+![Conclusion](https://github.com/ayush10mehta/Review-analysis-NLKT-and-Wordcloud-/blob/main/Pie_final.png?raw=true)
+
+
+##  Handwritten-Digit-Recognization
 
 - The handwritten digit recognition is the ability of computers to recognize human handwritten digits. It is a hard task for the machine because handwritten digits are not perfect and can be made in many different ways.
 - The handwritten digit recognition is the solution to this problem which uses the image of a digit and recognizes the digit present in the image.
@@ -36,7 +53,7 @@
 ### PPT:- [PPT Link](https://github.com/ayush10mehta/Handwritten-Digit-Recognization/blob/main/Handwrritenpresentation1.pptx)
 
 
-## 3. Rice-Leaf-Disease-Detection
+##  Rice-Leaf-Disease-Detection
 
 - In developing countries, farming land can be much larger and farmers cannot observe each and every plant, every day. Farmers are unaware of non-native diseases. 
 - The model will help them in detecting which of the diseases the rice leaf has. 
@@ -59,7 +76,7 @@
 
 ### PPT:- [PPT Link](https://github.com/ayush10mehta/Rice-Leaf-Deases-Detection/blob/main/Rice_Leaf.pptx)
 
-## 4. Security camera with motion detection alarm
+##  Security camera with motion detection alarm
 
 - The security camera will detect motion of a person and will sound an alarm as the motion is detected.
 - Using OpenCV we will take input from a webcam and then finding difference between image frames will help us in detecting motion.
@@ -77,7 +94,7 @@
 
 ### Demo:- [Demo Video](https://github.com/ayush10mehta/Motion-detector/blob/main/Screen%20Recording%202021-05-23%20at%202.32.07%20PM.mov)
 
-## 5. Blood Donation Prediction
+##  Blood Donation Prediction
 
 - The model will predict that the person will donate blood for the next time of not.
 - It is a classification type problem. 
@@ -95,7 +112,7 @@
 
 ### Model Deployment Link:- [Deployment Link](https://blood-donation-prediction-1.herokuapp.com/)
 
-## 6. Vaccine Prediction
+##  Vaccine Prediction
 
 - The dataset contains the respondents information about the pandemic survey where they answered if they had received the H1N1 and seasonal flu vaccines. 
 - The goal is to predict how likely individuals are to receive their H1N1 and seasonal flu vaccines. 
@@ -108,6 +125,7 @@
 ### Model code:- [Model Link](https://github.com/ayush10mehta/Vaccine-prediction/blob/main/Final_model.ipynb)
 
 ### PPT:- [PPT Link](https://github.com/ayush10mehta/Vaccine-prediction/blob/main/vaccine_ppt.pptx)
+
 
 ## Data visualization projects
 
