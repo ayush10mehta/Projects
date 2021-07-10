@@ -16,7 +16,7 @@
 ### Demo:- [Demo Video](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Screen%20Recording%202021-05-09%20at%2010.50.07%20AM.mov)
 
 
-##  Hotel-Review analysis
+##  **Hotel-Review analysis**
 
 - Given data is text file of reviews 
 - Need to analyse the reviews and give the insights from them.
@@ -34,7 +34,7 @@
 ![Conclusion](https://github.com/ayush10mehta/Review-analysis-NLKT-and-Wordcloud-/blob/main/Pie_final.png?raw=true)
 
 
-##  Handwritten-Digit-Recognization
+##  **Handwritten-Digit-Recognization**
 
 - The handwritten digit recognition is the ability of computers to recognize human handwritten digits. It is a hard task for the machine because handwritten digits are not perfect and can be made in many different ways.
 - The handwritten digit recognition is the solution to this problem which uses the image of a digit and recognizes the digit present in the image.
@@ -54,7 +54,27 @@
 ### PPT:- [PPT Link](https://github.com/ayush10mehta/Handwritten-Digit-Recognization/blob/main/Handwrritenpresentation1.pptx)
 
 
-##  Rice-Leaf-Disease-Detection
+##  **Sales Prediction**
+
+- FicZon Inc is an IT solution provider with products ranging from on- premises products to SAAS based solutions. FicZon major leads generation channel is digital and through their website. 
+- FicZon business is majorly dependent on the sales force effectiveness. As the market is maturing and more new competitors entering the market, FicZon is experiencing the dip in sales. 
+- Effective sales is dependent on lead quality and as of now, this is based on manual categorization and highly depended on sales staff. Though there is a quality process, which continuously updates the lead categorization, it’s value is in for post analysis, rather than conversation. 
+- FicZon wants to explore Machine Learning to pre-categorize the lead quality and as result, expecting significant increase in sales effectiveness. 
+
+### Flow chart
+![Flow chart](https://github.com/ayush10mehta/Sales-prediction/blob/main/Screenshot%202021-06-24%20at%2010.28.52%20PM.png?raw=true)
+
+### Finding best model
+![Check Point](https://github.com/ayush10mehta/Sales-prediction/blob/main/Screenshot%202021-06-24%20at%207.37.26%20PM.png?raw=true)
+
+### Model code:- [Model Link](https://github.com/ayush10mehta/Sales-prediction/blob/main/Final%20Sales.ipynb)
+
+### PPT:- [PPT Link](https://github.com/ayush10mehta/Sales-prediction/blob/main/Client%20.pptx)
+
+### Tableau:- [Link](https://public.tableau.com/app/profile/ayush.mehta/viz/ClientProjectstory/Story1)
+
+
+##  **Rice-Leaf-Disease-Detection**
 
 - In developing countries, farming land can be much larger and farmers cannot observe each and every plant, every day. Farmers are unaware of non-native diseases. 
 - The model will help them in detecting which of the diseases the rice leaf has. 
@@ -78,7 +98,7 @@
 ### PPT:- [PPT Link](https://github.com/ayush10mehta/Rice-Leaf-Deases-Detection/blob/main/Rice_Leaf.pptx)
 
 
-##  Security camera with motion detection alarm
+##  **Security camera with motion detection alarm**
 
 - The security camera will detect motion of a person and will sound an alarm as the motion is detected.
 - Using OpenCV we will take input from a webcam and then finding difference between image frames will help us in detecting motion.
@@ -97,7 +117,7 @@
 ### Demo:- [Demo Video](https://github.com/ayush10mehta/Motion-detector/blob/main/Screen%20Recording%202021-05-23%20at%202.32.07%20PM.mov)
 
 
-##  Blood Donation Prediction
+##  **Blood Donation Prediction**
 
 - The model will predict that the person will donate blood for the next time of not.
 - It is a classification type problem. 
@@ -116,7 +136,7 @@
 ### Model Deployment Link:- [Deployment Link](https://blood-donation-prediction-1.herokuapp.com/)
 
 
-##  Vaccine Prediction
+##  **Vaccine Prediction**
 
 - The dataset contains the respondents information about the pandemic survey where they answered if they had received the H1N1 and seasonal flu vaccines. 
 - The goal is to predict how likely individuals are to receive their H1N1 and seasonal flu vaccines. 
@@ -131,7 +151,7 @@
 ### PPT:- [PPT Link](https://github.com/ayush10mehta/Vaccine-prediction/blob/main/vaccine_ppt.pptx)
 
 
-## Data visualization projects
+## **Data visualization projects**
 
 ### Tableau
 
@@ -148,8 +168,3 @@
 # LinkedIn Profile
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="ayush-mehta-09a3a91b8" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ayush-mehta-09a3a91b8?trk=profile-badge">Ayush Mehta</a></div>
-              
-              
-
-
-
