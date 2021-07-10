@@ -15,7 +15,6 @@
 
 ### Demo:- [Demo Video](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Screen%20Recording%202021-05-09%20at%2010.50.07%20AM.mov)
 
-# --------------------------------------------------------------------------------------------------------------------------------------------
 
 ##  Hotel-Review analysis
 
@@ -54,7 +53,6 @@
 
 ### PPT:- [PPT Link](https://github.com/ayush10mehta/Handwritten-Digit-Recognization/blob/main/Handwrritenpresentation1.pptx)
 
-# --------------------------------------------------------------------------------------------------------------------------------------------
 
 ##  Rice-Leaf-Disease-Detection
 
