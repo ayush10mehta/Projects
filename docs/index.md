@@ -125,6 +125,7 @@
 
 ### EDA of the data
 [EDA](file:///Users/ayushmehta/Downloads/Capston/IBAC/SWEETVIZ_REPORT.html)
+[Eda](file:///Users/ayushmehta/Downloads/Capston/IBAC/SWEETVIZ_REPORT.html)
 
 ### Model code:- [Model Link](https://github.com/ayush10mehta/Employees-performance-prediction/blob/main/Final.ipynb)
 
