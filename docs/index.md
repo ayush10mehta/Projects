@@ -15,6 +15,7 @@
 
 ### Demo:- [Demo Video](https://github.com/ayush10mehta/Face-mask-detection/blob/main/Screen%20Recording%202021-05-09%20at%2010.50.07%20AM.mov)
 
+# -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##  Hotel-Review analysis
 
@@ -33,6 +34,7 @@
 ### Conclusion
 ![Conclusion](https://github.com/ayush10mehta/Review-analysis-NLKT-and-Wordcloud-/blob/main/Pie_final.png?raw=true)
 
+# -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##  Handwritten-Digit-Recognization
 
@@ -53,6 +55,7 @@
 
 ### PPT:- [PPT Link](https://github.com/ayush10mehta/Handwritten-Digit-Recognization/blob/main/Handwrritenpresentation1.pptx)
 
+# -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##  Rice-Leaf-Disease-Detection
 
@@ -77,6 +80,8 @@
 
 ### PPT:- [PPT Link](https://github.com/ayush10mehta/Rice-Leaf-Deases-Detection/blob/main/Rice_Leaf.pptx)
 
+# -----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ##  Security camera with motion detection alarm
 
 - The security camera will detect motion of a person and will sound an alarm as the motion is detected.
@@ -94,6 +99,8 @@
 ### PPT:- [PPT Link](https://github.com/ayush10mehta/Motion-detector/blob/main/motioncam.pptx)
 
 ### Demo:- [Demo Video](https://github.com/ayush10mehta/Motion-detector/blob/main/Screen%20Recording%202021-05-23%20at%202.32.07%20PM.mov)
+
+# -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##  Blood Donation Prediction
 
@@ -113,6 +120,8 @@
 
 ### Model Deployment Link:- [Deployment Link](https://blood-donation-prediction-1.herokuapp.com/)
 
+# -----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ##  Vaccine Prediction
 
 - The dataset contains the respondents information about the pandemic survey where they answered if they had received the H1N1 and seasonal flu vaccines. 
@@ -127,6 +136,7 @@
 
 ### PPT:- [PPT Link](https://github.com/ayush10mehta/Vaccine-prediction/blob/main/vaccine_ppt.pptx)
 
+# -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Data visualization projects
 
