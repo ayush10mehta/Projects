@@ -117,6 +117,20 @@
 ### Demo:- [Demo Video](https://github.com/ayush10mehta/Motion-detector/blob/main/Screen%20Recording%202021-05-23%20at%202.32.07%20PM.mov)
 
 
+##  **Employees performance prediction**
+
+- INX Future Inc , (referred as INX ) , is one of the leading data analytics and automation solutions provider with over 15 years of global business presence.
+- Recent years, the employee performance indexes are not healthy and this is becoming a growing concerns among the top management. There has been increased escalations on service delivery and client satisfaction levels came down by 8 percentage points.
+- Mr. Brain decided to initiate a data science project , which analyses the current employee data and find the core underlying causes of this performance issues. - - Mr. Brain, being a data scientist himself, expects the findings of this project will help him to take right course of actions. He also expects a clear indicators of non performing employees, so that any penalization of non-performing employee, if required, may not significantly affect other employee morals.
+
+### EDA of the data
+[EDA](file:///Users/ayushmehta/Downloads/Capston/IBAC/SWEETVIZ_REPORT.html)
+
+### Model code:- [Model Link](https://github.com/ayush10mehta/Employees-performance-prediction/blob/main/Final.ipynb)
+
+### Demo:- [Demo Video](https://github.com/ayush10mehta/Motion-detector/blob/main/Screen%20Recording%202021-05-23%20at%202.32.07%20PM.mov)
+
+
 ##  **Blood Donation Prediction**
 
 - The model will predict that the person will donate blood for the next time of not.
