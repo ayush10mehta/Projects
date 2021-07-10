@@ -64,9 +64,6 @@
 ### Flow chart
 ![Flow chart](https://github.com/ayush10mehta/Sales-prediction/blob/main/Screenshot%202021-06-24%20at%2010.28.52%20PM.png?raw=true)
 
-### EDA
-![EDA](https://github.com/ayush10mehta/Employees-performance-prediction/blob/main/Screenshot%202021-07-10%20at%203.16.46%20PM.png?raw=true)
-
 ### Finding best model
 ![Check Point](https://github.com/ayush10mehta/Sales-prediction/blob/main/Screenshot%202021-06-24%20at%207.37.26%20PM.png?raw=true)
 
@@ -128,6 +125,9 @@
 
 
 ![Flow chart](https://github.com/ayush10mehta/Employees-performance-prediction/blob/main/Screenshot%202021-07-10%20at%202.07.48%20PM.png?raw=true)
+
+### EDA
+![EDA](https://github.com/ayush10mehta/Employees-performance-prediction/blob/main/Screenshot%202021-07-10%20at%203.16.46%20PM.png?raw=true)
 
 ### Model code:- [Model Link](https://github.com/ayush10mehta/Employees-performance-prediction/blob/main/Final.ipynb)
 
